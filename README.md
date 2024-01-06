@@ -1,5 +1,5 @@
 ### Hy Guys 👋 I am Aditya Thakur
-React | Flutter | Dart | Node 
+React | Flutter | Dart | Node <br>
 Ig: flutter.spirit
 
 <!--
