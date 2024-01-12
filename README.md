@@ -1,7 +1,8 @@
 ### Hy Guys 👋 I am Aditya Thakur
 #### React | Flutter | Dart | Node <br>
-<img src="[https://your-image-url.type](https://github.com/Aditya-Thakur-369/aditya-thakur-369/assets/93264532/66ce542c-4818-41bf-8b0d-59b40b9abf17)" width="100" height="100">
-[Portfolio](https://www.instagram.com/flutter.spirit/)
+
+<img src="https://github.com/Aditya-Thakur-369/aditya-thakur-369/assets/93264532/66ce542c-4818-41bf-8b0d-59b40b9abf17" width="100" height="100">
+ [Portfolio](https://www.instagram.com/flutter.spirit/)
 
 <!--
 **Aditya-Thakur-369/aditya-thakur-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
