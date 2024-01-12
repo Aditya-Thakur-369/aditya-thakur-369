@@ -1,6 +1,6 @@
 ### Hy Guys 👋 I am Aditya Thakur
 #### React | Flutter | Dart | Node <br>
-(Flutter Spirit): https://www.instagram.com/flutter.spirit/
+(Flutter Spirit):<https://www.instagram.com/flutter.spirit/>
 
 <!--
 **Aditya-Thakur-369/aditya-thakur-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
