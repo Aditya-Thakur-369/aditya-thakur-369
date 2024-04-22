@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Aditya-Thakur-369&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aditya-Thakur-369&icon=1&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Aditya-Thakur-369&icon=1&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
